@@ -1,6 +1,6 @@
 #!/bin/sh
 
-
+cd /home/ubuntu/git_bot
 date >> /home/ubuntu/git_bot/aa.txt
 echo "date"
 
